@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Generics_objects_and_extensions" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
